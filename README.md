@@ -26,6 +26,9 @@ You can find out whatever the latest released docker image is on [docker hub](ht
 You should avoid specifying *no* tag or the `latest` tag -- these will float to the latest image and will expose your workflow to potentially breaking changes.
 
 
+This is a small change.
+
+
 ## Simple Usage
 
 You can use pandoc inside GitHub actions exactly as you would use it on the command line.
